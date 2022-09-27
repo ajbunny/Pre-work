@@ -1,0 +1,170 @@
+nav {
+    text-align: center;
+    font-size: x-large;
+    text-decoration: underline;
+    color: blueviolet;
+    position: relative;
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+    
+}
+
+body {
+    background-color: rgb(100, 88, 74);
+    color: rgb(223, 180, 94);
+    position: flex;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 100px;
+}
+
+h3{
+    text-align: center;
+    font-size: larger;
+}
+
+#test {
+   font-size: 45px;
+     text-align: center;
+        
+}
+p {
+    font-size: x-large;
+    text-align: center;
+}
+
+img {
+    float: right;
+    position: flex;
+    padding: 0em;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(100, 88, 74);
+}
+
+ul {
+    font-style: inherit;
+    text-align: left;
+    font-size: larger;
+}
+
+ahref {
+    text-decoration-color: red;
+}
+
+form{
+    width: 300px;
+    float: left;
+    border-style: double;
+    border-width: 1em;
+   background-color:antiquewhite;
+   position: relative;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 200px;
+   margin-right: 200px;
+   color: black;
+   padding: 2em;
+
+}
+
+#div1 {
+   
+    max-width: 1000px;
+    padding: 2em;
+    margin: 20px;
+    margin-left: 200px;
+    background-color:antiquewhite;
+    border-style:dotted;
+    display: flex;
+    
+}
+
+#div2 {
+    background-color: antiquewhite;
+    float: right; 
+    margin-right: 200px;
+  
+   width: 300px;
+   padding: 5px;
+   border-width: 1em;
+   border-style:double;
+   border-color: black;
+   
+}
+
+#div3 {
+   
+    max-width: 350px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color:antiquewhite;
+    border-style: 5px;
+    border-width: 1em;
+    border-style: double;
+    color: black;
+    
+
+}
+
+#div4 {
+    background-color: blanchedalmond;
+  
+}
+
+.headers {
+    color: rgb(255, 153, 0);
+    font-size: larger;
+}
+
+.para {
+    padding: 10px;
+    color:black;
+    font-size: large;
+}
+
+.rest {
+    color: rgba(211, 117, 167, 0.9);
+}
+
+ 
+
+ h1 {
+     text-align: center;
+     text-decoration: underline;
+     font-size: 100px;
+ }
+
+ nav {
+     text-align: center;
+     font-size: x-large;
+     text-decoration: underline;
+     color: blueviolet;
+     position: fixed;
+ }
+
+ 
+ .video {
+     position: fixed;
+     margin: auto;
+     top: 50%;
+     bottom: 50%;
+     left: 50%;
+     right: 50%;
+ }
+
+ .table {
+    position: relative;
+    max-width: 300px;
+    padding: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 30px;
+     display:block;
+     background-color: antiquewhite;
+     color: black;
+ }
